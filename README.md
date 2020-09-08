@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![Banner](https://github.com/jsilva071/jsilva071/assets/banner.jpg)
 
 # 👋 Hello World
 
