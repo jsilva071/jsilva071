@@ -1,3 +1,5 @@
+![Banner](assets/banner.jpg)
+
 # 👋 Hello World
 
 ![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
