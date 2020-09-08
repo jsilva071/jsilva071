@@ -8,8 +8,8 @@
 
 ## A little more about me...
 
-```javascript
-const jsilva = {
+```js
+const jsilva071 = {
     firstName: "José",
     lastName: "Silva",
     age: 17,
@@ -33,7 +33,7 @@ const jsilva = {
         },
         databases: ["Mongo", "MySQL", "SQLite"]
     },
-    dreamProject: "Social Network"
+    dreamProject: "Make a Social Network"
 };
 ```
 
@@ -43,9 +43,9 @@ const jsilva = {
 
 ## 🧑 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/José Silva-Facebook?logo=Facebook&color=4267B2&logoColor=white&style=for-the-badge)](https://facebook.com/jsilva071)
+[![Facebook](https://img.shields.io/badge/José%20Silva-Facebook?logo=Facebook&color=4267B2&logoColor=white&style=for-the-badge)](https://facebook.com/jsilva071)
 [![Instagram](https://img.shields.io/badge/@jsilva071-Instagram?logo=Instagram&color=E1306C&logoColor=white&style=for-the-badge)](https://instagram.com/jsilva071)
 [![Twitter](https://img.shields.io/badge/@jsilva071-Twitter?logo=Twitter&color=1DA1F2&logoColor=white&style=for-the-badge)](https://twitter.com/jsilva071)
-[![Linkedin](https://img.shields.io/badge/José Silva-Linkedin?logo=Linkedin&color=2867B2&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jsilva071/)
+[![Linkedin](https://img.shields.io/badge/José%20Silva-Linkedin?logo=Linkedin&color=2867B2&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jsilva071/)
 [![Discord](https://img.shields.io/badge/jsilva%239966-Discord?logo=Discord&color=2C2F33&logoColor=white&style=for-the-badge)](https://dsc.bio/jsilva/)
 [![Email](https://img.shields.io/badge/jsilva@jsilva071.pt-Email?logo=gmail&color=2C2F33&logoColor=white&style=for-the-badge)](mailto:jsilva@jsilva071.pt)
