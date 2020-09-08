@@ -8,7 +8,7 @@
 - 😍 Passionate about technology.
 - 💼 Web Developer.
 
-## A little more about me...
+## 📌 A little more about me...
 
 ```js
 const jsilva071 = {
