@@ -1,10 +1,10 @@
 # 👋 Hello World
 
+![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
+
 - 🎓 Multimedia Student at [IPTA](https://ipta.pt).
 - 😍 Passionate about technology.
 - 💼 Web Developer.
-
-![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
 
 ## A little more about me...
 
