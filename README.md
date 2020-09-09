@@ -4,7 +4,7 @@
 
 ![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
 
-- 🎓 Multimedia Student at [IPTA](https://ipta.pt).
+- 🎓 Multimedia Student at [IPTA](http://ipta.pt).
 - 😍 Passionate about technology.
 - 💼 Web Developer.
 
