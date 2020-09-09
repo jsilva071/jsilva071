@@ -25,7 +25,7 @@ const jsilva071 = {
         linux: "Basic",
         macOS: "Intermediate"
     },
-    frameworks: {
+    technologies: {
         frontEnd: {
             js: ["ReactJS"],
             css: ["Bootstrap"]
