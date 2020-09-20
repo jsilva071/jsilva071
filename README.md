@@ -43,7 +43,7 @@ const jsilva071 = {
 
 [![jsilva071's github stats](https://github-readme-stats.vercel.app/api?username=jsilva071&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsilva071&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🧑 Connect with Me
+## 👦 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/José%20Silva-Facebook?logo=Facebook&color=4267B2&logoColor=white&style=for-the-badge)](https://facebook.com/jsilva071)
 [![Instagram](https://img.shields.io/badge/@jsilva071-Instagram?logo=Instagram&color=E1306C&logoColor=white&style=for-the-badge)](https://instagram.com/jsilva071)
