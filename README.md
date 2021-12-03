@@ -33,7 +33,6 @@ const jsilva071 = {
         backEnd: {
             js: ["NodeJS", "Express"]
         },
-        
         mobile: {
             js: "React Native"
         },
