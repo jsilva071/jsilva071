@@ -6,7 +6,7 @@
 
 - 🛠 | Web & Mobile Developer
 - 🏴 | JS • PHP • React • Node.js
-- 📚 Multimedia Engineering student at [ISTEC](http://istec-porto.pt/).
+- 📚 | Multimedia Engineering student at [ISTEC](http://istec-porto.pt/).
 
 ## 📌 A little more about me...
 
