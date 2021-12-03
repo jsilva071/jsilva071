@@ -4,9 +4,9 @@
 
 ![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
 
-- 🎓 Multimedia Student at [IPTA](http://ipta.pt).
-- 😍 Passionate about technology.
-- 💼 Web Developer.
+- 🛠 | Web & Mobile Developer
+- 🏴 | JS • PHP • React • Node.js
+- 📚 Multimedia Engineering student at [ISTEC](http://istec-porto.pt/).
 
 ## 📌 A little more about me...
 
@@ -14,7 +14,7 @@
 const jsilva071 = {
     firstName: "José",
     lastName: "Silva",
-    age: 17,
+    age: 18,
     country: "Portugal",
     languagesIMaster: ["Javascript", "Typescript", "PHP", "SQL"],
     languagesIWantedToLearn: ["Python", "Java"],
@@ -27,11 +27,15 @@ const jsilva071 = {
     },
     technologies: {
         frontEnd: {
-            js: ["ReactJS"],
-            css: ["Bootstrap"]
+            js: "ReactJS",
+            css: "Bootstrap"
         },
         backEnd: {
             js: ["NodeJS", "Express"]
+        },
+        
+        mobile: {
+            js: "React Native"
         },
         databases: ["Mongo", "MySQL", "SQLite"]
     },
