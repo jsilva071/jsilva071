@@ -14,29 +14,29 @@
 const jsilva071 = {
     firstName: "José",
     lastName: "Silva",
-    age: 19,
+    age: 20,
     country: "Portugal",
     languagesIMaster: ["Javascript", "Typescript", "PHP", "SQL"],
     languagesIWantedToLearn: ["Python", "Java"],
-    askMeAbout: ["Web development", "Mobile development", "Technology", "Photography", "Video"],
+    askMeAbout: ["Web development", "Mobile development", "Technology"],
     phraseThatIdentifiesMe: "Coding My Life",
     operatingSystems: {
         windows: "Experient",
-        linux: "Basic",
+        linux: "Intermediate",
         macOS: "Intermediate"
     },
     technologies: {
         frontEnd: {
-            js: "ReactJS",
-            css: "Bootstrap"
+            js: ["React", "Next.js"],
+            css: ["Bootstrap", "Tailwind CSS", "Mantine"]
         },
         backEnd: {
-            js: ["NodeJS", "Express"]
+            js: ["NodeJS", "Express", "Fastify"]
         },
         mobile: {
             js: "React Native"
         },
-        databases: ["Mongo", "MySQL", "SQLite"]
+        databases: ["Mongo", "MySQL", "SQLite", "PostgreSQL" "Prisma ORM"]
     },
     dreamProject: "Make a Social Network"
 };
