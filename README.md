@@ -4,9 +4,8 @@
 
 ![Github Followers](https://img.shields.io/github/followers/jsilva071?label=Follow&style=social)
 
-- 🛠 | Web & Mobile Developer
-- 🏴 | JS • PHP • React • Node.js
-- 📚 | Multimedia Engineering student at [ISTEC](http://istec-porto.pt/).
+- 🛠 | Full-Stack Engineer
+- 🏴 | JS • React • Node.js
 
 ## 📌 A little more about me...
 
