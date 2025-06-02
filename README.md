@@ -14,7 +14,7 @@
 const jsilva071 = {
     firstName: "José",
     lastName: "Silva",
-    age: 20,
+    age: 22,
     country: "Portugal",
     languagesIMaster: ["Javascript", "Typescript", "PHP", "SQL"],
     languagesIWantedToLearn: ["Python", "Java"],
